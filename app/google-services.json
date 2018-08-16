@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "895460700594",
+    "firebase_url": "https://epifi-59740.firebaseio.com",
+    "project_id": "epifi-59740",
+    "storage_bucket": "epifi-59740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895460700594:android:77c33581fa05b084",
+        "android_client_info": {
+          "package_name": "com.epifi.epifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895460700594-9bf57nc4ekgp0rbol5c64j4mgo9en3fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBIXYWImqDnuQBVCYFuUH7V26PI7DPBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

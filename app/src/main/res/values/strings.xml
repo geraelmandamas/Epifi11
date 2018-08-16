@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Epifi</string>
+    <string name="emailHint">Email</string>
+    <string name="PasswordHint">Password</string>
+    <string name="butonLogin">Log In</string>
+    <string name="LinkTexto">No tienes una cuenta?</string>
+    <string name="Regístrate">Regístrate</string>
+    <string name="Wait">Espere</string>
+
+    <string name="auth_failed">Autenticación fallida</string>
+    <string name="auth_succes">Autenticación completada</string>
+    <string name="search_title">search</string>
+    <string name="search_hint">Buscar...</string>
+    <string name="TipoDeClase">Clase</string>
+    <string name="Precio">Precio</string>
+    <string name="listo">Listo</string>
+    <string name="Location">Ubicación</string>
+    <string name="Descripcion">Descripción</string>
+    <string name="Username">Username</string>
+    <string name="TipoClase">Clase</string>
+    <string name="FullNameHint">Nombre</string>
+    <string name="NickName">NickName</string>
+    <string name="butonRegister">Regístrate</string>
+    <string name="Ubicación">Ubicación</string>
+    <string name="dondebuscar">¿Donde quieres buscar ?</string>
+    <string name="cuantopagar">¿Cuánto quieres pagar?</string>
+
+
+    <string name="preferences_clase">preferences_clase</string>
+    <string name="preferences_ubicacion">preferences_ubicacion</string>
+    <string name="preferences_precio">preferences_precio</string>
+
+
+</resources>
